@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning ui/ux design.
 - 👯 I’m looking to intern for developer and ML engineer roles.
 - ⛏️ Working on my DSA and Problem Solving Skills
-- 📫 Profile Links : <strong> <a href=https://www.linkedin.com/in/samarth-srivastava-b002981b6/>Linkedin</a> </strong>, <strong> <a href="https://www.instagram.com/inkofsam/">Instagram</a> </strong>, <strong> <a href="\https://leetcode.com/inkofsam/LeetCode</a> </strong> 
+- 📫 Profile Links : <strong> <a href=https://www.linkedin.com/in/samarth-srivastava-b002981b6/>Linkedin</a> </strong>, <strong> <a href="https://www.instagram.com/inkofsam/">Instagram</a> </strong>, <strong> <a href="\https://leetcode.com/inkofsam</a> </strong> 
 
 
 <br><br><br>
@@ -36,6 +36,6 @@
 <br>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=utqrsh04&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utqrsh04&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sam-29&theme=tokyonight&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sam-29&theme=tokyonight&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
