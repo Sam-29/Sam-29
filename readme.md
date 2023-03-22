@@ -16,7 +16,7 @@
 
 <br><br><br>
 <img src="https://snehil.dev/images/svg/react.svg" title="ReactJs" height="32" width="32" />
-<img src="https://cdn.worldvectorlogo.com/logos/redux.svg" title="Redux" height="32" width="32" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" title="Tensorflow" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/sql.svg" title="SQL" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/git.svg" title="Git" height="32" width="32" />
 <img src="https://snehil.dev/images/svg/github.svg" title="GitHub" height="32" width="32" />
