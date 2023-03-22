@@ -5,7 +5,7 @@
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a>
   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" /> -->
 
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utqrsh04&theme=dark" />
+<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sam-29&theme=dark" />
 
 ## About Me 👨‍🎓
 - 🌱 I’m currently learning ui/ux design.
