@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Utkarsh Vishwakarma</h1>
+<h1 align="center">Hi, I'm Samarth Srivastava</h1>
 <h3 align="center"></h3>
- <a href="https://www.linkedin.com/in/utkarsh-vishwa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/utqrshh" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+ <a href="https://www.linkedin.com/in/samarth-srivastava-b002981b6/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/inkofsam/" target="_blank"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <!--   <a href="https://snehil.dev"  target="_blank"><img src="portfolio.svg"></a>
   <img src="https://badges.pufler.dev/visits/SneakySensei/SneakySensei?style=for-the-badge" /> -->
 
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=utqrsh04&theme=dark" />
 
 ## About Me 👨‍🎓
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to intern Fullstack developer roles
+- 🌱 I’m currently learning ui/ux design.
+- 👯 I’m looking to intern for developer and ML engineer roles.
 - ⛏️ Working on my DSA and Problem Solving Skills
-- 📫 Profile Links : <strong> <a href="https://www.linkedin.com/in/utkarsh-vishwa/">Linkedin</a> </strong>, <strong> <a href="https://www.instagram.com/utqrsh.exe/">Instagram</a> </strong>, <strong> <a href="https://leetcode.com/utqrsh04/">LeetCode</a> </strong> 
+- 📫 Profile Links : <strong> <a href=https://www.linkedin.com/in/samarth-srivastava-b002981b6/>Linkedin</a> </strong>, <strong> <a href="https://www.instagram.com/inkofsam/">Instagram</a> </strong>, <strong> <a href="\https://leetcode.com/inkofsam/LeetCode</a> </strong> 
 
 
 <br><br><br>
